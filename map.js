@@ -45,10 +45,14 @@ map.on('load', function () {
         const PLOT_NUMBER = e.features[0].properties.PLOT_NUMBER;  // Assuming 'plot_id' is a property in your GeoJSON
         const TITLE = e.features[0].properties.TITLE;
         const PLOT_AREA = e.features[0].properties.PLOT_AREA;
-        new mapboxgl.Popup()
-            .setLngLat(e.lngLat)
-            .setHTML('<h3>Plot ID: ' + TITLE + '</h3><p>Status: ' + PLOT_NUMBER + '</p>')
-            .addTo(map);
+        
+
+        var plotId = e.features[0].properties.plot_id;  // Assuming 'plot_id' is a property in your GeoJSON
+        var status = e.features[0].properties.status;
+
+        // Update the content of the details panel
+        var detailsPanel = document.getElementById('details-panel');
+        detailsPanel.innerHTML = '<h3>Plot ID: ' + plotId + '</h3><p>Status: ' + status + '</p>';
     });
 
     // Change the cursor to a pointer when hovering over a plot
