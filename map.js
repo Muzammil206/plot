@@ -47,12 +47,11 @@ map.on('load', function () {
         const PLOT_AREA = e.features[0].properties.PLOT_AREA;
         
 
-        var plotId = e.features[0].properties.plot_id;  // Assuming 'plot_id' is a property in your GeoJSON
-        var status = e.features[0].properties.status;
+       
 
         // Update the content of the details panel
-        var detailsPanel = document.getElementById('details-panel');
-        detailsPanel.innerHTML = '<h3>Plot ID: ' + plotId + '</h3><p>Status: ' + status + '</p>';
+        const detailsPanel = document.getElementById('details-panel');
+        detailsPanel.innerHTML = '<h3>TITLE: ' + TITLE  + '</h3><p>PLOT_NUMBER: ' + PLOT_NUMBER+ '</p><p>PLOT_Area: ' + PLOT_AREA+ '</p>';
     });
 
     // Change the cursor to a pointer when hovering over a plot
