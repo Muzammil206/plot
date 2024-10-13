@@ -1,0 +1,115 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "TITLE": "ANGELA MOSES", "PLOT_NUMBER": "03", "PLOT_AREA": "563.750 Sq.M", "PILLAR_NUMBER": "", "ELEVATION": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.498258, 6.657417 ], [ 3.498485, 6.657235 ], [ 3.498386, 6.657106 ], [ 3.498173, 6.657273 ], [ 3.498258, 6.657417 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "JULIUS OHURUZO", "PLOT_NUMBER": "04", "PLOT_AREA": "500.000 Sq.M", "PILLAR_NUMBER": "", "ELEVATION": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.498358, 6.657071 ], [ 3.498386, 6.657106 ], [ 3.498485, 6.657235 ], [ 3.498623, 6.657124 ], [ 3.498481, 6.656940 ], [ 3.498363, 6.657032 ], [ 3.498358, 6.657071 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "RALPH OLUWADAISI SERIKI", "PLOT_NUMBER": "05", "PLOT_AREA": "500.000 Sq.M", "PILLAR_NUMBER": "", "ELEVATION": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.498481, 6.656940 ], [ 3.498623, 6.657124 ], [ 3.498761, 6.657013 ], [ 3.498620, 6.656832 ], [ 3.498481, 6.656940 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "STEPHEN OLUWASETIRE", "PLOT_NUMBER": "06", "PLOT_AREA": "573.140 Sq.M", "PILLAR_NUMBER": "", "ELEVATION": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.498620, 6.656832 ], [ 3.498761, 6.657013 ], [ 3.499009, 6.656814 ], [ 3.498691, 6.656776 ], [ 3.498620, 6.656832 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "CHRISTIANA OLUWAFEMI", "PLOT_NUMBER": "07", "PLOT_AREA": "557.830 Sq.M", "PILLAR_NUMBER": "", "ELEVATION": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.499009, 6.656814 ], [ 3.499030, 6.656797 ], [ 3.498854, 6.656574 ], [ 3.498676, 6.656713 ], [ 3.498691, 6.656776 ], [ 3.499009, 6.656814 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "AREMU EMMANUEL", "PLOT_NUMBER": "08", "PLOT_AREA": "500.000 Sq.M", "PILLAR_NUMBER": "", "ELEVATION": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.498676, 6.656713 ], [ 3.498854, 6.656574 ], [ 3.498743, 6.656432 ], [ 3.498564, 6.656571 ], [ 3.498676, 6.656713 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "ADEBAYO ADESANYA", "PLOT_NUMBER": "09", "PLOT_AREA": "500.000 Sq.M", "PILLAR_NUMBER": "", "ELEVATION": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.498564, 6.656571 ], [ 3.498743, 6.656432 ], [ 3.498631, 6.656290 ], [ 3.498452, 6.656429 ], [ 3.498564, 6.656571 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "GOODLUCK NWANYIOMA", "PLOT_NUMBER": "13", "PLOT_AREA": "500.000 Sq.M", "PILLAR_NUMBER": "", "ELEVATION": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.498261, 6.656347 ], [ 3.498299, 6.656352 ], [ 3.498392, 6.656470 ], [ 3.498209, 6.656613 ], [ 3.498099, 6.656474 ], [ 3.498261, 6.656347 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "TOLUWALASE MOSURO", "PLOT_NUMBER": "01", "PLOT_AREA": "519.860 Sq.M", "PILLAR_NUMBER": "", "ELEVATION": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.498099, 6.656474 ], [ 3.498209, 6.656613 ], [ 3.498264, 6.656684 ], [ 3.498137, 6.656784 ], [ 3.497990, 6.656594 ], [ 3.497995, 6.656555 ], [ 3.498099, 6.656474 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "VICTORIA AGBANA", "PLOT_NUMBER": "12", "PLOT_AREA": "500.000 Sq.M", "PILLAR_NUMBER": "", "ELEVATION": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.498392, 6.656470 ], [ 3.498209, 6.656613 ], [ 3.498264, 6.656684 ], [ 3.498317, 6.656751 ], [ 3.498501, 6.656608 ], [ 3.498392, 6.656470 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "SEGUN AYENI", "PLOT_NUMBER": "11", "PLOT_AREA": "500.000 Sq.M", "PILLAR_NUMBER": "", "ELEVATION": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.498501, 6.656608 ], [ 3.498317, 6.656751 ], [ 3.498427, 6.656890 ], [ 3.498589, 6.656764 ], [ 3.498594, 6.656726 ], [ 3.498501, 6.656608 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "JOHNSON AIGBEKAN", "PLOT_NUMBER": "02", "PLOT_AREA": "519.860 Sq.M", "PILLAR_NUMBER": "", "ELEVATION": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.498427, 6.656890 ], [ 3.498317, 6.656751 ], [ 3.498264, 6.656684 ], [ 3.498137, 6.656784 ], [ 3.498281, 6.656970 ], [ 3.498319, 6.656975 ], [ 3.498427, 6.656890 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "FIELD", "PLOT_NUMBER": "14", "PLOT_AREA": "1858.583 Sq.M", "PILLAR_NUMBER": "", "ELEVATION": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.498340, 6.657141 ], [ 3.498243, 6.657002 ], [ 3.497928, 6.656606 ], [ 3.497812, 6.656700 ], [ 3.497872, 6.656762 ], [ 3.498102, 6.657329 ], [ 3.498119, 6.657391 ], [ 3.498210, 6.657336 ], [ 3.498173, 6.657273 ], [ 3.498340, 6.657141 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "CECILIA UKAEGBU", "PLOT_NUMBER": "10", "PLOT_AREA": "500.000 Sq.M", "PILLAR_NUMBER": "", "ELEVATION": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.498452, 6.656429 ], [ 3.498631, 6.656290 ], [ 3.498518, 6.656146 ], [ 3.498361, 6.656269 ], [ 3.498356, 6.656307 ], [ 3.498452, 6.656429 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "ROAD", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "", "ELEVATION": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 3.497812, 6.656700 ], [ 3.497763, 6.656640 ], [ 3.498451, 6.656100 ] ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6898", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498761, 6.657013 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6897", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498623, 6.657124 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6896", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498485, 6.657235 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6895", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498258, 6.657417 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6894", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498173, 6.657273 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6893", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498386, 6.657106 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6892", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498358, 6.657071 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6891", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498363, 6.657032 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6890", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498481, 6.656940 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6889", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498620, 6.656832 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6887", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498676, 6.656713 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6901", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498854, 6.656574 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6902", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498743, 6.656432 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6886", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498564, 6.656571 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6885", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498452, 6.656429 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6903", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498631, 6.656290 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6882", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498518, 6.656146 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6883", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498361, 6.656269 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6884", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498356, 6.656307 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6876", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498299, 6.656352 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6877", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498261, 6.656347 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6875", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498392, 6.656470 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6878", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498099, 6.656474 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6878", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498099, 6.656474 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6866", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.497995, 6.656555 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6867", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.497990, 6.656594 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6868", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498137, 6.656784 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6880", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498264, 6.656684 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6881", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498317, 6.656751 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6879", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498209, 6.656613 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6879", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498209, 6.656613 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6869", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498281, 6.656970 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6870", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498319, 6.656975 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6871", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498427, 6.656890 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6872", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498589, 6.656764 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6873", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498594, 6.656726 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6874", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498501, 6.656608 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6888", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.498691, 6.656776 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6900", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.499030, 6.656797 ] } }
+,
+{ "type": "Feature", "properties": { "TITLE": "", "PLOT_NUMBER": "", "PLOT_AREA": "", "PILLAR_NUMBER": "6899", "ELEVATION": "" }, "geometry": { "type": "Point", "coordinates": [ 3.499009, 6.656814 ] } }
+
+]
+}
